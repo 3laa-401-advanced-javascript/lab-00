@@ -1,15 +1,14 @@
 # LAB - Class xx
 
-## Project: Project Name Here
+## Project: Proof of life
 
-### Author: Student/Group Name
+### Author: Alaa almasri
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [submission PR](https://github.com/3laa-401-advanced-javascript/lab-00/pull/1)
+- [ci/cd](https://travis-ci.org/github/3laa-401-advanced-javascript/lab-00/builds/685730922) (GitHubActions)
+- [front-end application](https://alaa-lab-00.herokuapp.com/)
 
 ### Setup
 
